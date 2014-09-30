@@ -1,4 +1,4 @@
 kosmos-oid
 ==========
 
-Kosmoon on aika saada vihdoin toimiva backend OID-hierarkioiden hallintaan
+Kosmoon on aika saada vihdoin toimiva backend OID-hierarkioiden hallintaan.
